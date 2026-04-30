@@ -324,6 +324,12 @@
   .bg-\[url\(\'shoe-removebg-preview\.png\'\)\] {
     background-image: url('shoe-removebg-preview.png');
   }
+  .bg-\[url\(\'shoe\.png\'\)\] {
+    background-image: url('shoe.png');
+  }
+  .bg-\[url\(\'shoesss\.png\'\)\] {
+    background-image: url('shoesss.png');
+  }
   .from-sky-200 {
     --tw-gradient-from: var(--color-sky-200);
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
